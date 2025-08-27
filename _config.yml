@@ -1,2 +1,19 @@
-theme: jekyll-theme-minimal
+title: "马列毛著作在线书库"
+description: "收录马克思、恩格斯、列宁、斯大林、毛泽东等经典著作的在线阅读网站"
+
+# 使用 just-the-docs 主题（带侧边栏）
 remote_theme: just-the-docs/just-the-docs
+
+# 网址
+url: "https://mlm1966-shuizhongtian.github.io/mlm-library"
+
+# 目录设置
+just_the_docs:
+  aux_links:
+    "返回 GitHub":
+      - "//github.com/mlm1966-shuizhongtian/mlm-library"
+  show_sidebar: true
+  search_enabled: true   # 开启站内搜索
+
+# Markdown 渲染器
+markdown: kramdown
