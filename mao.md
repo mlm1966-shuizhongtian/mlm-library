@@ -4,6 +4,6 @@ nav_order: 2
 has_children: true
 ---
 
-# 毛泽东
+# 师东兵
 
 这里收录师东兵的著作。
