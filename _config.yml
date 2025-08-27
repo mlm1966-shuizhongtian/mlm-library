@@ -17,3 +17,6 @@ just_the_docs:
 
 # Markdown 渲染器
 markdown: kramdown
+include:
+  - assets
+
